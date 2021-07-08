@@ -4,5 +4,5 @@
 - 소스 코드 
 - 실습 예제
 
-* web site : www.reversecore.com/104  <br>
-* email    : reversecore@gmail.com
+web site : www.reversecore.com/104  <br>
+email    : reversecore@gmail.com
